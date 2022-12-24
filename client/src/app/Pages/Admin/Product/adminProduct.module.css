@@ -1,0 +1,65 @@
+#modal{
+    width:500px !important;
+  }
+  .scrollit {
+  overflow-y:scroll;
+  height:25rem;
+  }
+  #baslik{
+  background-color: rgb(245,245,250);
+
+  }
+  Table{
+    background-color:rgb(250,250,250);
+  }
+  .shadow{
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px !important;
+  }
+  tr{
+    vertical-align: middle;
+  }
+  *{
+    list-style:none;
+}
+li{
+    float:left;
+}
+  .dropzone{
+    border:2px dotted rgb(200,200,200);
+    border-radius:3px;
+    background-color:rgb(245,245,245);
+    width:auto;
+    height:200px;
+   
+  }
+  .dropzone p {
+    vertical-align: middle;
+    margin-top:20%;
+    font-size:18px;
+    color:rgb(100,100,100);
+  }
+  .selectedimages1{
+    width:110px;
+    height:110px;
+    object-fit:cover;
+    border-radius:3px;
+    margin:4px;
+  
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;   
+  }
+  .selectedimages{
+    width:100px;
+    height:100px;
+    object-fit:cover;
+    border-radius:3px;
+    margin:4px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;   
+    
+  }
+  .header{
+    color: rgb(57, 57, 57);
+    font-size:20px;
+    text-align: center;
+    box-shadow:rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px !important;
+    background-color:rgb(245,245,245)
+}

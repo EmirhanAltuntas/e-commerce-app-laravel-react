@@ -1,0 +1,61 @@
+li{
+    border:none !important;
+  }
+  .background{
+ 
+  color: white;
+  border:none;
+  border-radius:0;
+  background-color:rgb(245,245,245);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: all .5s ease-out;
+}
+
+.cardBg{
+ 
+  background-color:rgb(245,245,245) !important;
+  border: none !important;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px !important;
+}
+.btn-my-dark{
+  background-color:rgb(245,245,245);
+  
+}
+.btn-my-dark:hover{
+  background-color:rgb(240,240,240);
+
+}
+h4{
+  color:rgb(67,67,67);
+}
+.border{
+  border:none !important;
+  border-bottom: 1px solid rgb(193, 193, 193) !important;
+}
+.bg-transparent{
+  background:transparent !important;
+}
+.btnDash{
+  text-align:start !important;
+  color:rgb(68,68,68) !important;
+  border:none !important;
+  border-bottom: 1px solid rgb(225,225,225) !important;
+  border-radius: 0 !important;
+}
+.btnDash:focus{
+    outline: none !important;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px !important;
+    background-color: rgba(255, 242, 61, 0.597) !important;
+  }
+.btnDash:hover{
+  background-color: rgba(255, 242, 61, 0.597) !important;
+  transition: ease.0.4s;
+}
+.dashDrop{
+    background-color: rgb(245,245,245) !important;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+}
+.dashDrop button{
+    background-color: rgb(245,245,245) !important;
+}

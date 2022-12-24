@@ -1,0 +1,20 @@
+.bgOne{
+    background: linear-gradient(to right, rgb(149, 255, 125),rgb(98, 255, 103));
+  }
+  .bgTwo{
+    background: linear-gradient(to right, rgb(246, 156, 59) ,rgb(250, 145, 33));
+  }
+  .bgThree{
+    background: linear-gradient(to right, #36d1dc ,#5b86e5);
+  }
+  .bgFour{
+    background: linear-gradient(to right, rgb(246, 55, 87) ,rgb(244, 41, 75));
+  }
+  .radius{
+    border-radius:3px;
+  }
+  .textcolor{
+    color: rgb(62,62,62);
+  }
+
+ 
