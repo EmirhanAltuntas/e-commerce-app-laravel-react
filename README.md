@@ -11,7 +11,10 @@
 ### Verilerin ekleneceği sayfalar ve taleplerin karşılandığı sayfalar mevcuttur. Kategoriler , tek tek elle veya excel ile yüklenebilir.
 ### Sistem geliştirilmeye devam edecektir.
 
-<img src="./project_images/product_detail.png" width="400" height="400" alt="product_Detail" >
+<div width="400px" height="400px">
+<img src="./project_images/product_detail.png" style="object-fit:contain;width:100%;height:100%" alt="product_Detail" >
+
+</div>
 <img src="./project_images/admin1.png" width="400" height="400" alt="admin1" >
 <img src="./project_images/admin2.png" width="400" height="400" alt="admin2" >
 <img src="./project_images/admin3.png" width="400" height="400" alt="admin3" >
